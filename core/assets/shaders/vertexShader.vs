@@ -3,7 +3,7 @@
 #endif
 
 attribute vec4 a_position;
-attribute vec4 a_texCoord0;
+attribute vec2 a_texCoord0;
 
 uniform mat4 u_projTrans;
 uniform float u_time;
